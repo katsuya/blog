@@ -1,2 +1,3 @@
-# blog
+# Blog
+
 Tech and life blog
