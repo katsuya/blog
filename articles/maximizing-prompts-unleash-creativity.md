@@ -329,7 +329,7 @@ W&Bの使い方が結構うまくて、各ステップごとのprompt、スコ�
 
 結論としては、めっちゃセンスいいなまじリスペクトって感じですかね。
 
-最後に生成AIのPoCやプロンプトの調整・評価にお困りの方がいたら、[フォーム](https://docs.google.com/forms/d/e/1FAIpQLSd_GtYrVxniGBP8QBidOAzi1HrOCQ1xeIv-ei2Hgyh8M3cl6A/viewform)から気軽にお問い合わせください。
+最後に生成AIのPoCやプロンプトの調整・評価にお困りの方がいたら、[こちらのLP](https://hicustomer.jp/genai-poc)から気軽にお問い合わせください。
 
 ## 参考資料
 
